@@ -23,9 +23,9 @@ Comencé mi carrera en el desarrollo de aplicaciones .NET en 2007 y desde entonc
 | WinForms    | C# (A), VB Net (A), VB6 (M), Visual FoxPro 8 (B), Infragistics (A), DevExpress (M).           |
 | Integraciones | Servicios Web (SOAP, RESTful) (A), WinService (Worker Services) (A), JSON (A), XML (A), EDIFAC (M), EDI X12 (M).                                                               |
 | Analísta de Datos | Python 3.10 (M), Power BI (M), Tableau (M).                                                              |
-| Otros    | Visual Studio (A), Dapper (M), Entity Framework (B), LinQ (A), Crystal Reports (A), Reporting Services (B)           |
+| Otros    | Visual Studio (A), Dapper (M), Entity Framework (B), LinQ (A), Crystal Reports (A), Reporting Services (B), GITHUB (M), Team Foundation (M).            |
 | Movil       | Swift (B), Kotlin (B), Flutter (B)  |
-| Principios        | Scrum, Arquitectura Limpia (Clean Architecture), Principios SOLID |
+| Principios        | Scrum, Arquitectura Limpia (Clean Architecture), Principios SOLID, Administración y gestión de proyectos (JIRA) (A). |
 
 Niveles
 - Básico (B)
